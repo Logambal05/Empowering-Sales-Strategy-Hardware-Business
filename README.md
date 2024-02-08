@@ -13,17 +13,17 @@ Click Here To See The Power BI Dashboard: [Click Me to See Dashboard](https://dr
 
 ## Analysis Idea:
 
-1. Total Revenue Analysis: Analyze revenue trends by customer and market name to identify key revenue drivers.
-2. Total Sales Quantity Analysis: Understand sales quantity patterns by customer and market to gauge product demand.
-3. Top 10 Analysis: Identify top customers and markets based on revenue and sales quantity to prioritize resource allocation and marketing efforts.
-4. Profit Analysis: Calculate profit margins and analyze profit margin contributions by market and customer to optimize pricing strategies and focus on high-profit areas.
-5. Performance by Zone: Evaluate performance across different zones to uncover regional sales patterns and opportunities for improvement.
+1. **Total Revenue Analysis:** Analyze revenue trends by customer and market name to identify key revenue drivers.
+2. **Total Sales Quantity Analysis:** Understand sales quantity patterns by customer and market to gauge product demand.
+3. **Top 10 Analysis:** Identify top customers and markets based on revenue and sales quantity to prioritize resource allocation and marketing efforts.
+4. **Profit Analysis:** Calculate profit margins and analyze profit margin contributions by market and customer to optimize pricing strategies and focus on high-profit areas.
+5. **Performance by Zone:** Evaluate performance across different zones to uncover regional sales patterns and opportunities for improvement.
 
 ## Tools Used:
 
-- Power BI: Leveraged for dynamic data visualization and dashboard development.
-- Power BI Query: Employed for data extraction, transformation, and loading (ETL) from SQL databases into Power BI.
-- SQL: Utilized for data retrieval and storage management to facilitate analysis in Power BI.
+- **Power BI:** Leveraged for dynamic data visualization and dashboard development.
+- **Power BI Query:** Employed for data extraction, transformation, and loading (ETL) from SQL databases into Power BI.
+- **SQL:** Utilized for data retrieval and storage management to facilitate analysis in Power BI.
 
 ## Conclusion:
 
