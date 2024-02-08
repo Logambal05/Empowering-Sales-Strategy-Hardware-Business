@@ -28,8 +28,3 @@ Tools Used:
 Conclusion:
 
 Through this project, we successfully implemented a data analysis solution in Power BI to address the challenges faced by the computer hardware business. By leveraging real-time sales insights, the Sales Director can make informed decisions to adapt to the dynamic market environment. The analysis provided valuable insights into revenue, sales quantity, profitability, and regional performance, enabling the business to prioritize resources effectively, optimize pricing strategies, and capitalize on growth opportunities.
-
----
-
-
-
